@@ -8,4 +8,4 @@
 #### [Github](https://github.com/HaooooZhang/Epiphany)
 #### [Issues](https://github.com/HaooooZhang/Epiphany/issues)
 #### [Discord](https://discord.gg/xSEWpdae9C)
-#### [Wiki](docs.myumoon.ink/Epiphany/Overview)
+#### [Wiki](https://docs.myumoon.ink/Epiphany/Overview)
