@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress"
 import { katex } from "@mdit/plugin-katex"
 
 export default defineConfig({
+  base: "/",
   srcDir: "docs",
   lang: "en",
   title: "HaooooZhang's Docs",
