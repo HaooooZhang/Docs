@@ -21,6 +21,8 @@
 
 只需 4 个 JSON 文件，你就能定义一个完整的技能树模块。把它们放到 datapack 目录（或在 mod 中 `src/main/resources/data/<你的 ns>/`）。
 
+查看示例数据包：[ExamplePack.zip](https://github.com/HaooooZhang/Epiphany/blob/main/ExamplePack.zip)
+
 ### 文件 1:定义一个心得
 
 ```jsonc

@@ -23,6 +23,8 @@ Optional integrations:
 
 With just 4 JSON files, you can define a complete skill tree module. Place them in a datapack directory (or inside your mod at `src/main/resources/data/<your-ns>/`).
 
+Browse the example datapack: [ExamplePack.zip](https://github.com/HaooooZhang/Epiphany/blob/main/ExamplePack.zip)
+
 ### File 1: Define an Insight
 
 ```jsonc
