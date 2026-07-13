@@ -13,7 +13,8 @@
 ## Quick Start
 
 - Press the **K** key to open the Build System GUI.
-- Check out the example datapack and the Wiki to dive deeper into Epiphany and quickly create your own skill trees.
+- Check out the [example datapack](https://github.com/HaooooZhang/Epiphany/blob/main/ExamplePack.zip) and the Wiki to dive deeper into Epiphany and quickly create your own skill trees.
+
 
 ## Features
 
@@ -26,9 +27,6 @@
 - **Highly Configurable**: Through the config file, authors can easily adjust the aptitude level-up formula, player slot limits, experience gain multipliers, and notification toggles, blending seamlessly into any modpack's progression balance.
 - **Strong Compatibility & Mod Support**: Integrates with FTB Quests, KubeJS, and other mainstream modpack development tools. Provides an open API, custom events, and supports KubeJS scripting for both event listening and API calls.
 - **Polished GUI**: Built on LDLib, Epiphany features a carefully crafted UI with smooth node connections, draggable insight trees, and dynamic layout adjustments for a refined player experience.
-
-- [Github](https://github.com/HaooooZhang/Epiphany)
-- [Discord](https://discord.gg/xSEWpdae9C)
 
 ## Mod Architecture
 
